@@ -58,6 +58,10 @@ The app provides a user-friendly sidebar form where users can input customer det
 5. Prediction
 Once the user submits their input, the model predicts the Customer Satisfaction Score, which is displayed on the page.
 
+![Screenshot (23)](https://github.com/user-attachments/assets/ebfdae9c-f708-4bea-a93d-29d48d4a8d0c)
+![Screenshot (24)](https://github.com/user-attachments/assets/fa36fc2b-d0ff-45c6-b766-e47595642f0d)
+
+
 ## 🌱 Future Enhancements
 Model Optimization: Implement hyperparameter tuning (e.g., using GridSearchCV or RandomizedSearchCV) to improve the model's predictive accuracy.
 Advanced Models: Explore more sophisticated models such as Gradient Boosting or XGBoost for better performance.
